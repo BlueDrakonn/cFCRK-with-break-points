@@ -38,8 +38,6 @@ This project implements a method for solving delay differential equations (DDEs)
 
 ## 🚀 Usage
 
-Копировать
-Редактировать
 from name import combine_method  # Заменить 'name' и 'combine_method' на реальные имена, если они другие
 
 t0 = 0
