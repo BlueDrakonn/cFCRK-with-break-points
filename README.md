@@ -36,15 +36,8 @@ This project implements a method for solving delay differential equations (DDEs)
 
 ---
 
-## 📁 Structure
+## 🚀 Usage
 
-```text
-name.py     # Main implementation of the solver  
-README.md   # This file
-
-
-🚀 Usage
-python
 Копировать
 Редактировать
 from name import combine_method  # Заменить 'name' и 'combine_method' на реальные имена, если они другие
